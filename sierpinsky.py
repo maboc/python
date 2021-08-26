@@ -2,15 +2,13 @@ from graphics import *
 import random
 
 def process_poi(win, poi):
-    P1=Point(0,0)
-    P2=Point(700,100)
-    P3=Point(800,600)
-    P4=Point(100,500)
-    P5=Point(500,400)
-    
+    P1=Point(0,600)
+    P2=Point(300,00)
+    P3=Point(600,600)
+
     random.seed()
     direction = random.randrange(1,4)
-    print(direction)
+    #print(direction)
     
     win.plot(poi.getX(),poi.getY())
 
@@ -26,17 +24,9 @@ def process_poi(win, poi):
         pnx=(poi.getX()+P3.getX())/2
         pny=(P3.getY()+poi.getY())/2
         poi=Point(pnx,pny)
-    elif(direction==4):
-        pnx=(poi.getX()+P4.getX())/2
-        pny=(P4.getY()+poi.getY())/2
-        poi=Point(pnx,pny)
-    elif(direction==5):
-        pnx=(poi.getX()+P5.getX())/2
-        pny=(P5.getY()+poi.getY())/2
-        poi=Point(pnx,pny)
     return poi
 
-win=GraphWin('Spielerei',800,600)
+win=GraphWin('Spielerei',600,600)
 
 poi=Point(100,100)
 
