@@ -13,9 +13,6 @@ pip3 install numpy
 - Whenever a problem seems to be solved I loose my interest a bit....so there are a lot improvements possible
 
 Programs in this collection:
-[Julia sets] (julia.py)  
-[Mandelbrot Set] (mandelbrot)  
-
 ### julia.py 
 Purpose       : generates pictures of julia set
 Documentation : 
