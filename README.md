@@ -24,6 +24,6 @@ Documentation :
 Remarks       :
 
 ### sierpinski.py
-Purpose       : generates (by approximation) a picture of a sierpinski triangle
-Documentation : [wiki](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle) [maboc.nl](https://maboc.nl/?p=358)
+Purpose       : generates (by approximation) a picture of a sierpinski triangle  
+Documentation : [wiki](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle) [maboc.nl](https://maboc.nl/?p=358)  
 
