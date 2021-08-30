@@ -13,7 +13,7 @@ pip3 install numpy
 - Whenever a problem seems to be solved I loose my interest a bit....so there are a lot improvements possible
 
 Programs in this collection:
-1. julia.py : gerates pictures of julia set
+1. julia.py : gerates pictures of julia set {#julia.py}
 2. mandelbrot.py : generates a picture of a mandelbrotset
 3. mandelbrot2.py : Also generates a picture of a mandelbrot set. (but just a tiny bit smarter)
 
