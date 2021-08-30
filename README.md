@@ -13,5 +13,10 @@ pip3 install numpy
 - Whenever a problem seems to be solved I loose my interest a bit....so there are a lot improvements possible
 
 Programs in this collection:
-### julia.py : generates pictures of julia set {#julia}
+[programs](julia.py)
+
+### julia.py 
+Purpose       : generates pictures of julia set
+Documentation : 
+Remarks       : 
 
